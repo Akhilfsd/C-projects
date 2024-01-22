@@ -1,0 +1,158 @@
+Movie Ticket Booking System Documentation
+1. Aim
+
+The Movie Ticket Booking System aims to provide a user-friendly console-based platform for efficient movie ticket reservations. It focuses on offering a seamless experience, supporting multiple movies, and incorporating visual elements for enhanced usability.
+
+
+2. Table of Contents
+
+Introduction
+1.1 Purpose
+1.2 Scope
+1.3 Features
+
+System Overview
+2.1 Architecture
+2.2 Components
+2.3 File Handling
+
+User Interaction
+3.1 Movie Selection
+3.2 Seat Availability Display
+3.3 Booking Process
+3.4 Pricing Structure
+
+Implementation Details
+4.1 Code Structure
+4.2 Color-coded Interface
+4.3 Seat Status Management
+4.4 File Handling Procedures
+
+Usage
+5.1 Requirements
+5.2 Execution
+5.3 User Guidance
+
+Future Enhancements
+6.1 Additional Features
+6.2 UI Improvements
+6.3 Error Handling
+
+Conclusion
+7.1 Summary
+7.2 Acknowledgments
+
+1. Introduction
+
+1.1 Purpose
+
+Efficient movie ticket reservations with a focus on simplicity and user-friendliness.
+
+1.2 Scope
+
+Support for three movies, clear visuals, and persistent data through file handling.
+
+1.3 Features
+
+Multiple movie support
+Visual interface with color-coded elements
+Persistent booking data storage
+2. System Overview
+
+2.1 Architecture
+
+Modular design for flexibility, including components for movie selection, seat display, booking management, and file handling.
+
+2.2 Components
+
+Movie Selection: Choose from M.S.DHONI, JERSY, or PUSHPA.
+Seat Display: Clear visual interface with color-coded blocks.
+Booking Management: Seamless process with dynamic updates.
+File Handling: Ensures data persistence.
+2.3 File Handling
+
+Efficient procedures for reading and writing booking information.
+
+3. User Interaction
+
+3.1 Movie Selection
+
+Navigate easily to select a preferred movie.
+
+3.2 Seat Availability Display
+
+Visual representation with color-coding for booked and available seats.
+
+3.3 Booking Process
+
+Effortless seat booking, dynamic updates, and transparent pricing.
+
+3.4 Pricing Structure
+
+Block A: 200, Block B: 100 - Clearly communicated during booking.
+
+4. Implementation Details
+   Implementation Process
+
+The implementation involves the following key steps:
+
+Movie Selection: Users choose from available movies.
+Seat Interface Display: Visual representation of seat availability in two blocks.
+Booking Process: Users specify the number of seats, select seat numbers, and the system validates and updates the seat status.
+Pricing Structure: Seats in Block A and Block B have distinct pricing.
+File Handling: Booking information is stored and retrieved for persistent data.
+
+
+4.1 Code Structure
+
+Modular code organization for readability and maintainability.
+
+4.2 Color-coded Interface
+
+Visual appeal with color-coded elements.
+
+4.3 Seat Status Management
+
+Efficient functions for seat status checks, booking, and updates.
+
+4.4 File Handling Procedures
+
+Effective storage and retrieval of booking information.
+
+5. Usage
+
+5.1 Requirements
+
+Standard C compiler and console environment.
+
+5.2 Execution
+
+Simple compilation and execution with on-screen guidance.
+
+5.3 User Guidance
+
+Clear instructions, real-time updates, and input validation for a smooth experience.
+
+6. Future Enhancements
+
+6.1 Additional Features
+
+Potential for more movies, advanced functionalities, and customization options.
+
+6.2 UI Improvements
+
+Refinement for improved aesthetics and user experience.
+
+6.3 Error Handling
+
+Strengthening mechanisms for robust system performance.
+
+7. Conclusion
+
+7.1 Summary
+
+Version 1.0 offers a sophisticated, user-friendly movie ticket booking experience.
+
+7.2 Acknowledgment
+
+Collaborative efforts are acknowledged, and feedback for future improvements is welcomed.
